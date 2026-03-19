@@ -31,7 +31,7 @@ public class MyServlet extends HttpServlet {
 		response.setContentType("text/html");
 		PrintWriter out = response.getWriter();
 
-		out.println("<html><body>Ciao</body></html>");
+		out.println("<html><body>Ciao Egit</body></html>");
 
 	}
 
