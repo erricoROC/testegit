@@ -30,7 +30,9 @@ public class MyServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		response.setContentType("text/html");
 		PrintWriter out = response.getWriter();
+
 		out.println("<html><body>Ciao</body></html>");
+
 	}
 
 	/**
